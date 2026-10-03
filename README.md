@@ -13,7 +13,7 @@
 
 <p align="center">
   I'm currently grinding a lot of <strong>Game Jams</strong> to improve my skills,<br>
-  experiment with different ideas, and — most importantly — make games.
+  experiment with different ideas, and obviously to make games.
 </p>
 
 <br>
